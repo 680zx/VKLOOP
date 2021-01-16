@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tvrbofx\\source\\repos\\VKLOOP\\VKLOOP\\VKLOOP.csproj",
+      "projectUniqueName": "C:\\Users\\tvrbofx\\Documents\\github\\VKLOOP\\VKLOOP\\VKLOOP.csproj",
       "projectName": "VKLOOP",
-      "projectPath": "C:\\Users\\tvrbofx\\source\\repos\\VKLOOP\\VKLOOP\\VKLOOP.csproj",
+      "projectPath": "C:\\Users\\tvrbofx\\Documents\\github\\VKLOOP\\VKLOOP\\VKLOOP.csproj",
       "packagesPath": "C:\\Users\\tvrbofx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tvrbofx\\source\\repos\\VKLOOP\\VKLOOP\\obj\\",
+      "outputPath": "C:\\Users\\tvrbofx\\Documents\\github\\VKLOOP\\VKLOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tvrbofx\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,7 +59,7 @@
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           },
-          "Microsoft.WindowsDesktop.App.WPF": {
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
             "privateAssets": "none"
           }
         },
